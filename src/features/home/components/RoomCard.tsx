@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { MapPin, Shield, Star, Heart } from 'lucide-react';
+import { MapPin, Shield, Heart } from 'lucide-react';
 import type { Room } from '../types';
 import { useFavorites } from '@/shared/context/FavoritesContext';
 

@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react';
-import Navbar from '@/shared/components/Navbar';
 import { Link } from 'react-router-dom';
 import RoomCard from '../components/RoomCard';
 import RoomCardSkeleton from '../components/RoomCardSkeleton';

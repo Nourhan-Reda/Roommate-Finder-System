@@ -3,7 +3,7 @@ import { supabase } from '@/lib/supabase';
 import FilterMenu from './Filters';
 import { Link, useNavigate } from 'react-router-dom';
 import Logo from './Logo';
-import { Search, SlidersHorizontal, MapPin, Banknote, Heart, User } from 'lucide-react';
+import { Search, SlidersHorizontal, MapPin, Banknote, Heart} from 'lucide-react';
 import { useFilters } from '@/shared/context/FilterContext';
 import { useFavorites } from '@/shared/context/FavoritesContext';
 

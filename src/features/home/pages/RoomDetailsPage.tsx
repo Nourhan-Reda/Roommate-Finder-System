@@ -7,7 +7,7 @@ import {
   MapPin, Shield, ChevronRight, ArrowLeft, Heart,
   Bed, Bath, Wifi, Zap, Calendar, Home, CheckCircle2,
   Share2, Flag, MessageCircle, Clock, Users, Sparkles,
-  X, Send, CalendarDays, Phone
+  X, Send, CalendarDays
 } from 'lucide-react';
 
 const RoomDetailsPage = () => {

@@ -1,7 +1,6 @@
 import { useEffect, useState } from 'react';
 import { supabase } from '@/lib/supabase';
 import { Calendar, User, Pencil, Trash2, Save, X, LogOut, Camera, UserCircle, Mail, Hash, ShieldCheck, Clock } from 'lucide-react';
-import type { ProfileType } from '@/features/auth/types/profile';
 
 const Profile = () => {
   const [profile, setProfile] = useState<any>(null);
